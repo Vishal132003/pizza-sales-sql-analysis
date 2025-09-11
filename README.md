@@ -3,6 +3,10 @@
 This project is a **SQL-based analysis** of a pizza sales database.  
 It explores orders, pizzas, and customer behavior to extract insights into revenue, popular pizzas, and sales trends.  
 
+Dataset Link:-
+https://github.com/Vishal132003/pizza-sales-sql-analysis/blob/main/pizza_db.sql
+
+
 ## 📝 Project Questions
 
 ### 🔹 Basic
